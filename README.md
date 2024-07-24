@@ -8,11 +8,13 @@ Clone this repository:
 git clone https://github.com/jeslinhashly422/Caesar-Cipher.git
 ```
 Navigate to the project directory:
+```bash
 cd caesar-cipher
-
+```
 Run the program:
+```bash
 python caesar_cipher.py
-
+```
 Follow the prompts to input your message and the shift value.
 Example
 Encryption
